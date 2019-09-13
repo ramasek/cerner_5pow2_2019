@@ -1,1 +1,1 @@
-# cerner_5pow2_2019
+# cerner_2^5_2019
